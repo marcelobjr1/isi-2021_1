@@ -6,4 +6,4 @@
 Aula | Link | Slides
 ------------ | ------------- | ------------- 
 Aula 01 - Apresentação | https://youtu.be/UmvdItO6q8U | Slide 01
-Aula 01 - Apresentação | https://youtu.be/mAsXOR58FKI | XXXXXXXX
+Aula 02 - Tour Virtual| https://youtu.be/mAsXOR58FKI | XXXXXXXX
